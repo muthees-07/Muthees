@@ -9,3 +9,4 @@ function app(){
   let b= 200;
   console.log(a++b--);
 }
+app()
